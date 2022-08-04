@@ -15,3 +15,8 @@ Create a file called "backend.go"
 Step3:
 
 run using the command "go run backend.go"
+
+
+App will start using the "http://localhost:10000"
+
+
